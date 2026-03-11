@@ -1,0 +1,22 @@
+cat_id,cat_name,production_line,cat1,cat2,cat3,create_date,update_date
+300,Party Supplies,GTF TDP,Section2,Section2,All,2014-09-18,2016-02-08
+301,Books,PM Meltblown,Section1,Section1,All,2015-03-29,2015-07-01
+302,Music & Instruments,GTF Cartridges,Section1,All,All,2016-09-28,2017-05-28
+303,Electronics,GTF Panels,Section1,Section1,Section2,2015-02-08,2016-08-06
+304,Art & Craft,IF Synthetic,Section2,Section2,Section2,2016-09-20,2017-07-06
+305,Pet Supplies,IF Acoustics,Section1,Section1,Section2,2016-04-15,2017-11-15
+306,Jewelry,GTF Panels,Section1,Section2,Section2,2014-11-29,2015-04-30
+307,Electronics,Dust,All,Section2,Section2,2014-11-01,2016-07-24
+308,Garden & Outdoor,GTI Cartridges,All,All,Section1,2015-06-17,2018-08-29
+309,Party Supplies,IF TotalPleat,Section1,All,Section1,2018-06-04,2018-11-16
+310,Health & Beauty,IF TotalPleat,All,Section1,Section2,2015-03-21,2017-10-15
+311,Party Supplies,GTI Panel,Section2,Section2,Section2,2018-03-03,2018-11-12
+312,Electronics,Dust,Section2,Section1,Section2,2015-01-07,2016-02-28
+313,Music & Instruments,GTI Bags,Section1,All,Section1,2016-04-30,2018-12-04
+314,Tools,GTI Cartridges,Section1,Section2,All,2016-08-03,2016-09-08
+315,Furniture,GTF Accessories,All,Section1,Section2,2018-11-14,2018-12-10
+316,Party Supplies,GTF Bags,Section2,Section2,All,2015-02-14,2017-01-06
+317,Jewelry,PM Meltblown,All,All,Section2,2014-07-17,2015-03-27
+318,Music & Instruments,GTF Bags,Section1,All,All,2014-01-26,2017-05-15
+319,Automotive,GTF Accessories,Section1,All,Section2,2014-10-26,2015-05-30
+320,Electrical Supplies,GTF Cartridges,Section2,Section2,All,2016-01-17,2017-02-13
