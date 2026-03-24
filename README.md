@@ -69,6 +69,6 @@ Enabled better decision-making through clean and reliable data
 
 
 ### Project Links
-* Dataset: Marketing Campaign Project raw.zip
+* Dataset: https://github.com/Adharsh-V/Sales-Analysis/blob/main/Marketing%20Campaign%20Project%20raw.zip
 * Power BI Dashboard: (Add link)
 * SQL Scripts: (Add link)
