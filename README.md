@@ -69,6 +69,6 @@ Enabled better decision-making through clean and reliable data
 
 
 ### Project Links
-* Dataset: (Add link)
+* Dataset: Marketing Campaign Project raw.zip
 * Power BI Dashboard: (Add link)
 * SQL Scripts: (Add link)
