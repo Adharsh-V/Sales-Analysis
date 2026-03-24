@@ -71,4 +71,4 @@ Enabled better decision-making through clean and reliable data
 ### Project Links
 * Dataset: https://github.com/Adharsh-V/Sales-Analysis/blob/main/Marketing%20Campaign%20Project%20raw.zip
 * Power BI Dashboard:https://github.com/Adharsh-V/Sales-Analysis/blob/main/REPORTS.pbix
-* SQL Scripts: (Add link)
+* SQL Scripts:https://github.com/Adharsh-V/Sales-Analysis/blob/main/text-to-date-conversion.sql
